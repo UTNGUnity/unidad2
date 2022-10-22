@@ -45,7 +45,7 @@
   * > Desafío
   * > Prueba
 * Lección 3
-  * > [Tutorial](https://github.com/raulrodriguezf/UNITY-FINAL/tree/main/Unidad%203/Unidad%203)
+  * > [Tutorial](https://github.com/UTNGUnity/unidad2/tree/main/Unidad2/Unidad3/Leccion3)
   * > [Laboratorio](https://github.com/raulrodriguezf/UNITY-FINAL/tree/main/Unidad%203/Laboratorio%203)
   * > [Desafío](https://github.com/raulrodriguezf/UNITY-FINAL/tree/main/Unidad%203/Desafio%203)
   * > [Prueba](https://github.com/raulrodriguezf/UNITY-FINAL/tree/main/Unidad%203)
