@@ -46,9 +46,9 @@
   * > Prueba
 * Lección 3
   * > [Tutorial](https://github.com/UTNGUnity/unidad2/tree/main/Unidad2/Unidad3/Leccion3)
-  * > [Laboratorio](https://github.com/UTNGUnity/uain/Unidnidad2/tree/mad2/Unidad3/Reto)
-  * > [Desafío](https://github.com/raulrodriguezf/UNITY-FINAL/tree/main/Unidad%203/Desafio%203)
-  * > [Prueba](https://github.com/raulrodriguezf/UNITY-FINAL/tree/main/Unidad%203)
+  * > [Laboratorio](https://github.com/UTNGUnity/unidad2/tree/main/Unidad2/Unidad3/LAB3)
+  * > [Desafío](https://github.com/UTNGUnity/unidad2/tree/main/Unidad2/Unidad3/Reto)
+  * > [Prueba](https://github.com/UTNGUnity/unidad2/blob/main/Unidad2/Unidad3/Cuestionario3.png)
 * Lección 4
   * > Tutorial
   * > Laboratorio
