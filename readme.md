@@ -48,17 +48,17 @@
   * > [Tutorial](https://github.com/UTNGUnity/unidad2/tree/main/Unidad2/Unidad3/Leccion3)
   * > [Laboratorio](https://github.com/UTNGUnity/unidad2/tree/main/Unidad2/Unidad3/LAB3)
   * > [Desafío](https://github.com/UTNGUnity/unidad2/tree/main/Unidad2/Unidad3/Reto)
-  * > [Prueba](https://github.com/UTNGUnity/unidad2/blob/main/Unidad2/Unidad3/Cuestionario3.png)
+  * > [Prueba](https://github.com/UTNGUnity/unidad2/blob/main/Unidad5/cuestionario.png)
 * Lección 4
   * > Tutorial
   * > Laboratorio
   * > Desafío
   * > Prueba
 * Lección 5
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * > [Tutorial](https://github.com/UTNGUnity/unidad2/tree/main/Unidad5/Tutorial)
+  * > [Laboratorio](https://github.com/UTNGUnity/unidad2/tree/main/Unidad2/Unidad3/LAB3)
+  * > [Desafío](https://github.com/UTNGUnity/unidad2/tree/main/Unidad5/Reto)
+  * > [Prueba](https://github.com/UTNGUnity/unidad2/blob/main/Unidad2/Unidad3/Cuestionario3.png)
 * VideoJuego
 
 ## Planificación
