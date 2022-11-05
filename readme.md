@@ -56,9 +56,9 @@
   * > Prueba
 * Lección 5
   * > [Tutorial](https://github.com/UTNGUnity/unidad2/tree/main/Unidad5/Tutorial)
-  * > [Laboratorio](https://github.com/UTNGUnity/unidad2/tree/main/Unidad2/Unidad3/LAB3)
+  * > [Laboratorio](https://github.com/UTNGUnity/unidad2/tree/main/Unidad5/LABoratorio)
   * > [Desafío](https://github.com/UTNGUnity/unidad2/tree/main/Unidad5/Reto)
-  * > [Prueba](https://github.com/UTNGUnity/unidad2/blob/main/Unidad2/Unidad3/Cuestionario3.png)
+  * > [Prueba](https://github.com/UTNGUnity/unidad2/blob/main/Unidad5/cuestionario.png)
 * VideoJuego
 
 ## Planificación
